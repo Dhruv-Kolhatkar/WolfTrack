@@ -1,19 +1,6 @@
 <h1><b>WolfTrack </b></h1>
 
-[Demo Link](https://drive.google.com/file/d/1Ug-K1hOt9Jbbztuziw2OZFPyBx66PqLx/view?usp=sharing) <br>
-[WolfTrack 3.0 Youtube](https://youtu.be/3_JZxAd9lcs)
-
 ---
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10023452.svg)](https://zenodo.org/doi/10.5281/zenodo.10023451)
-[![GitHub Release](https://img.shields.io/github/release/nehajaideep/WolfTrack3.0)](https://github.com/nehajaideep/WolfTrack3.0/releases/tag/wolftrack)
-[![Manual Build](https://github.com/nehajaideep/WolfTrack3.0/actions/workflows/main.yml/badge.svg)](https://github.com/nehajaideep/WolfTrack3.0/actions/workflows/main.yml)
-[![codecov](https://codecov.io/gh/nehajaideep/WolfTrack3.0/branch/Group10StableBranch/graph/badge.svg?token=0Q36G2YQC6)](https://codecov.io/gh/nehajaideep/WolfTrack3.0)
-![GitHub language count](https://img.shields.io/github/languages/count/nehajaideep/WolfTrack3.0)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/nehajaideep/WolfTrack3.0)](https://github.com/nehajaideep/WolfTrack3.0)
-[![GitHub-size](https://img.shields.io/github/languages/code-size/nehajaideep/WolfTrack3.0)](https://github.com/nehajaideep/WolfTrack3.0)
-[![GitHub issues](https://img.shields.io/github/issues/nehajaideep/WolfTrack3.0)](https://github.com/nehajaideep/WolfTrack3.0)
-[![GitHub-closed-issues](https://img.shields.io/github/issues-closed-raw/nehajaideep/WolfTrack3.0)](https://github.com/nehajaideep/WolfTrack3.0)
 
 ---
 
@@ -64,9 +51,6 @@ https://user-images.githubusercontent.com/66715000/144538638-acc75fa1-db5b-49a1-
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![ezgif com-optimize](https://user-images.githubusercontent.com/32817064/140445992-15af5890-6aa5-48e5-b663-7e6bd1272d26.gif)
 
-- #### We have created an entire CI pipeline which includes all the stages including Code Analysis, Style checkers, Code Coverage, Code Assemble and Docker Image Build, readily available to run the image on any server without manually setting up the environment.
-- [Github WorkFlow YAML](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/main.yml) | [Dockerfile](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/Dockerfile) | [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | [JS-HTML-CSS Formatter](https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter) | [Flake8](https://github.com/nehajaideep/WolfTrack23.0/blob/Group10StableBranch/.github/workflows/main.yml)
-
 ### Third-Party Tools
 
 - [AWS Relational Database Service-RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
@@ -96,7 +80,7 @@ https://user-images.githubusercontent.com/66715000/144538638-acc75fa1-db5b-49a1-
 
     `source test_env/bin/activate`
 
-  - Build the virtual environment:(must be present in [project root directory](https://github.com/nehajaideep/WolfTrack2.0))
+  - Build the virtual environment:(must be present in [project root directory]
 
     `pip install -r requirements.txt`
 
@@ -104,9 +88,9 @@ https://user-images.githubusercontent.com/66715000/144538638-acc75fa1-db5b-49a1-
 
   **To run/test the site locally:**
 
-  - Clone [WolfTrack github repo](https://github.com/nehajaideep/WolfTrack2.0).
+  - Clone 
 
-  - Navigate to [project directory](https://github.com/nehajaideep/WolfTrack2.0).
+  - Navigate to [project directory]
 
   - Run `python main.py` or `python3 main.py` <br> <br>
     If there is a certificate error coming up for nltk stopwords download: <br>
@@ -176,15 +160,11 @@ docker push akhil/wolftrackv3:1.0
 
 ---
 
-[Class/Functions Documentation](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/docs/WolfTrack3.0_Documentation.pdf)
+
 
 ---
 
-## 📔 Code Coverage
 
-It is part of the [Github Workflow Build](https://github.com/nehajaideep/WolfTrack2.0/runs/4099439944?check_suite_focus=true)
-
----
 
 ## 🛤️ Roadmap
 
@@ -212,43 +192,25 @@ It is part of the [Github Workflow Build](https://github.com/nehajaideep/WolfTra
 
 ### 🏁 Phase 3 WolfTrack 3.0:
 
-☑️ Two Type Login Application - Admin and User.<br>
-☑️ Resume Review, Comment, Download and Like by Admin.  
-☑️ Comments given by Admin are sent as email to the user. <br>
-☑️ Cronjob for pending application deadlines as email notification. <br>
-☑️ Implemented web scraping to find relevant jobs according to user's profile and recommend him <br>
-☑️ Daily Goal Check to keep track of number of jobs applied and to apply <br>
-☑️ Customizable Daily Target Field <br>
-☑️ Parse Resume Document with other extensions <br>
-☑️ Recommend jobs by matching the resume with open jobs <br>
+- [x] Two Type Login Application - Admin and User.<br>
+- [x] Resume Review, Comment, Download and Like by Admin.  
+- [x] Comments given by Admin are sent as email to the user. <br>
+- [x] Cronjob for pending application deadlines as email notification. <br>
+- [x] Implemented web scraping to find relevant jobs according to user's profile and recommend him <br>
+- [x] Daily Goal Check to keep track of number of jobs applied and to apply <br>
+- [x] Customizable Daily Target Field <br>
+- [x] Parse Resume Document with other extensions <br>
+- [x] Recommend jobs by matching the resume with open jobs <br>
 
 ### 🔭 Phase 4 WolfTrack 4.0 (Future Scope):
 
-- [ ] Configure Cron-Job for reminder as SMS notification
-- [ ] Model improvement of resume analyzer
-- [ ] Customization of job recommendations
-- [ ] Direct application links to jobs in the recommendation list
-- [ ] Online chat with expert
-- [ ] Resume template editor
+- [x] Configure Cron-Job for reminder as SMS notification
+- [x] Model improvement of resume analyzer
+- [x] Customization of job recommendations
+- [x] Direct application links to jobs in the recommendation list
+- [x] Online chat with expert
+- [x] Resume template editor
 
 ---
-
-## ✍️ Contributions
-
-Please refer to the [CONTRIBUTING.md](https://github.com/nehajaideep/WolfTrack2.0/blob/Group10StableBranch/CONTRIBUTING.md) if you want to contrbute to the Wolftrack 3.0 source code. Follow all the guidelines mentioned and raise a pull request for the developers to review before the code goes to the main source code.
-
----
-
-## :handshake: Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/niveditalodha"><img src="https://avatars.githubusercontent.com/u/40229663?v=4" width="75px;" alt=""/><br /><sub><b>Nivedita Lodha</b></sub></a></td>
-    <td align="center"><a href="https://github.com/akhilkumarmengani"><img src="https://avatars.githubusercontent.com/u/70975566?v=4" width="75px;" alt=""/><br /><sub><b>Akhil Kumar Mengani</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/umagnanasundaram2128"><img src="https://avatars.githubusercontent.com/u/8946692?v=4" width="75px;" alt=""/><br /><sub><b>Uma Gnanasundaram</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/vamshi-chidara"><img src="https://avatars.githubusercontent.com/u/66715000?v=4" width="75px;" alt=""/><br /><sub><b>Vamshi Chidara</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/nehajaideep"><img src="https://avatars.githubusercontent.com/u/46373273?v=4" width="75px;" alt=""/><br /><sub><b>Neha Kotcherlakota</b></sub></a><br /></td>
-  </tr>
-</table>
 
 ---
