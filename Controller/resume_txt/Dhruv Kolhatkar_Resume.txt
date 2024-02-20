@@ -1,0 +1,53 @@
+Dhruv Kolhatkar  
+(919)559 -5541 | dukolhat@ncsu.edu  | linkedin.com/in/dhruv -kolhatkar  
+ 
+EDUCATION  
+North Carolina State University, Raleigh, N C                    May 2025  
+Master of Computer Science  
+Coursework: Design and Analysis of Algorithms, Software Engineering, Automated Learning and Data Analysis  
+ 
+Savitribai Phule Pune University , Pune, India          May 202 3 
+Bachelor of Technology in Information Technology  
+Coursework : Database Management Systems, Operating Systems, Theory of Computation, Object Oriented System 
+Design, Artificial  Intelligence, Machine Learning, Cloud Computing  
+ 
+TECHNICAL SKILLS  
+Languages:  Python , C/C++, JavaScript, HTML/CSS  
+Databases and Operating Systems:  MS SQL , MySQL , MongoDB  
+Tools/Frameworks:  React, Node.js, Flask, SKLearn, TensorFlow , Pandas, NumPy, Mat plotlib, Git,  Visual Studio  
+ 
+WORK EXPERIENCE  
+Software Engineer Intern, Atlas Copco, Pune, India           April 2021 – July 2021  
+• Built 2 scalable c loud platforms  using Python and MS SQL  and deployed on production servers.  
+• Transformed a paper -based product inventory  system on the factory floor to a cloud -based one.  
+• Created a computer vision model and a web platform for it, capable of identifying design flaws in 10 products , 
+which was u sed by all stakeholders (floor engineers, supervisors, maintenance, management ). 
+ 
+Project Intern, Optimum Data Analytics, Pune, India                      Dec 2020 – April 2021  
+• Built a  mobile application for internal communication and professional networking within  companies.  
+• Designed and deployed a set of 20+ features(chat, profiles, rooms, etc) spanning 5 modules  using  a Flask 
+(Python ) back-end and MongoDB  database  and Flutter (Dart)  front -end. 
+ 
+PROJECTS  
+Answer Sentence Extraction and Question Answering  
+• Compiled a new dataset for Hindi multi -disciplinary QA using data scrapped from the public domain and 
+improved  upon existing datasets such as MMQA and MLQA.  
+• Trained  a novel algorithm leveraging  dependency  relations for question answering and answer selection . 
+ 
+Breast Cancer Classification  
+• Researched and implemented a convolutional neural network on the BreakHis dataset of  microscopic images 
+for the classification of breast cancer achieving an accuracy of 98.7%.  
+• Completed  a comparative study with other classical models such as random forest, support vector machines 
+and state-of-the-art neural networks.  
+ 
+Real -Time Facial Emotion Recognition  
+• Trained convolutional neural network models for the purpose of facial emotion recognition, giving a maximum  
+accuracy of 91.3%.  
+• Developed model  in real -time using Open -CV for basic image re -structuring  (grey -scale, etc.) and Python for  
+the front -end, back -end pipeline.  
+ 
+Holistic Fitness Tracking Platform  
+• Developed an all-purpose  fitness tracking website for calorie and exercise tracking, meal planning and a 
+dedicated  wellness marketplace with 4 role logins.  
+• Built a  React.js  front -end, Node.js  back-end and a MySQL database using sharding, triggers and query 
+optimisation . 
